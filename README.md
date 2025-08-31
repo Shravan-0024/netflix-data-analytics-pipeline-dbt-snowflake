@@ -1,2 +1,2 @@
 # netflix-data-analytics-pipeline-dbt-snowflake
-Designed an end-to-end ELT pipeline by extracting Netflix data from AWS S3 into Snowflake and applying modular transformations using DBT (raw, staging, and production layers). Further enhancement can be done using Airflow for automating the entire pipeline and visualising insights can be done using Looker Studio/Power BI.
+Built an end-to-end ELT pipeline for Netflix data by integrating AWS S3 with Snowflake and applying modular DBT transformations (raw → staging → production). Automated insights generation with clear documentation and visualized results in Looker Studio/Power BI.
